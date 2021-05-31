@@ -46,3 +46,9 @@ h1{
 }
 
 
+@media screen (max-width:550px){
+  h1,.cal .cl-body{
+    width:60%;
+  
+  }
+}
